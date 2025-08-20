@@ -1,14 +1,8 @@
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
 User-agent: *
 Allow: /
+
+# Sitemap
+Sitemap: https://www.strongermecanica.com.br/sitemap.xml
+
+# Stronger Mecânica e Peças - Specialists in Agricultural Machinery
+# Allow all search engines to crawl our content
