@@ -38,7 +38,7 @@ const Services = () => {
       icon: Wrench,
       title: 'Serviços de Torno e Solda',
       description: 'Serviços especializados de usinagem e soldagem para fabricação e reparo de peças.',
-      features: ['Torno CNC', 'Solda Especializada', 'Fabricação de Peças', 'Precisão Técnica']
+      features: ['Torno Convencional', 'Solda Especializada', 'Fabricação de Peças', 'Precisão Técnica']
     },
     {
       icon: Shield,
