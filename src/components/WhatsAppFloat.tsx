@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { MessageCircle, X } from 'lucide-react';
+import { X } from 'lucide-react';
 
 const WhatsAppFloat = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -83,7 +83,11 @@ const WhatsAppFloat = () => {
           
           {/* Button Content */}
           <div className="relative w-full h-full flex items-center justify-center">
-            <MessageCircle className="w-7 h-7 text-white" />
+            <img 
+              src="/lovable-uploads/56f6cc6a-3318-4cc3-aba0-cfb26a3dbb7c.png" 
+              alt="WhatsApp" 
+              className="w-8 h-8"
+            />
           </div>
 
           {/* Hover Text */}
